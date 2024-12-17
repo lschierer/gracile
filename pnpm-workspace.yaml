@@ -15,6 +15,7 @@ packages:
   - ./packages/addons/sitemap
   - ./packages/addons/markdown
   - ./packages/addons/markdown-preset-marked
+  - ./packages/addons/markdown-preset-remark
   # - ./packages/addons/minify
   # - ./packages/addons/minify-html-literals
   - ./integration
